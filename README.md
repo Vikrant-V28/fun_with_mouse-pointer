@@ -5,3 +5,8 @@
 # Fun with Mouse Pointer
 The simple script to make animated `Mouse Pointer Effect` using HTML, CSS, & JavaScript.
 
+### Prerequisites
+- HTML
+- CSS
+- JavaScript
+
