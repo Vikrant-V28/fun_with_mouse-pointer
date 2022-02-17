@@ -19,7 +19,7 @@ The simple script to make animated `Mouse Pointer Effect` using HTML, CSS, & Jav
 
 <details><summary><b>Output 2</b></summary>
   <p align="center">
-    <a href="Outputs/output2.png"><img src="https://user-images.githubusercontent.com/85709371/154446644-472c5fbf-ef3d-4d87-bf86-c937321f5472.png)" alt="output 2"></a>
+    <a href="Outputs/output2.png"><img src="https://user-images.githubusercontent.com/85709371/154446644-472c5fbf-ef3d-4d87-bf86-c937321f5472.png" alt="output 2"></a>
   </p>
 </details>
 
