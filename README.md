@@ -24,3 +24,6 @@ The simple script to make animated `Mouse Pointer Effect` using HTML, CSS, & Jav
 </details>
 
 Visit <a href="https://vikrant-v28.github.io/animated_bulb/">Here</a>
+
+## *Author Name*
+[Vikrant](https://github.com/vikrant-v28)
