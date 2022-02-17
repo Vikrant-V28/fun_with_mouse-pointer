@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="60" src="https://user-images.githubusercontent.com/85709371/154444101-d6eebced-92f5-45c1-80b3-24f5a0cd2a9e.png">
+  <img height="60" src="https://user-images.githubusercontent.com/85709371/154445204-110690bf-eee8-456c-bdfe-60d527f691ad.png">
 </div>
 
 # Fun with Mouse Pointer
